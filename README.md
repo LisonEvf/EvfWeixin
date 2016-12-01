@@ -1,0 +1,2 @@
+EvfWeixin
+使用Springmvc+Spring4+Hibrenate5框架通过
